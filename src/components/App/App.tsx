@@ -1,7 +1,3 @@
-import './App.css'
+import './App.css';
 
-export const App = () => (
-  <div>
-    RTK Query Auth
-  </div>
-)
+export const App = () => <div>RTK Query Auth</div>;
